@@ -16,6 +16,11 @@ A collection of http specific CVEs :
  - [Fortinet CVE-2022-40684](https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684/)
  - [Confluence CVE-2022-26134](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-26134)
  - [Text4Shell CVE-2022-42889](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-42889)
+ - [Ghost CMS CVE-2022-41697](https://nvd.nist.gov/vuln/detail/CVE-2022-41697)
+ - [Cacti CVE-2022-46169](https://nvd.nist.gov/vuln/detail/CVE-2022-46169)
+ - [Centos Web Panel 7 CVE-2022-44877](https://nvd.nist.gov/vuln/detail/CVE-2022-44877)
+ - [Telerik UI CVE-2019-18935](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-18935)
+ - [Netgear DGN1000 / DGN2200 Remote Command Execution](https://www.exploit-db.com/exploits/25978)
 
 
 :warning: This collection is _not_ a WAF and this collection does _not_ aims at replacing a WAF.
